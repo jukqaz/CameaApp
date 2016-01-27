@@ -1,4 +1,4 @@
-package com.tisquare.cameraapp;
+package com.hini.cameraapp;
 
 import android.app.Activity;
 import android.content.Context;

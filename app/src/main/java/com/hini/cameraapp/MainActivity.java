@@ -1,4 +1,4 @@
-package com.tisquare.cameraapp;
+package com.hini.cameraapp;
 
 import android.content.Context;
 import android.hardware.Camera;
@@ -12,6 +12,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.SeekBar;
+
+import com.tisquare.cameraapp.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 	private Context mContext;
